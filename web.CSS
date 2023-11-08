@@ -21,7 +21,7 @@ nav {
     font-weight: 800px;
 }
 
-ul, li {
+.nav-bar, #li {
     display: flex;
     flex-direction: row;
     gap:30px;
@@ -76,8 +76,9 @@ ul, li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 80px;
+    padding-top: 50px;
     letter-spacing: 1px;
+    font-size: 32px;
 }
 
 #about-info {
